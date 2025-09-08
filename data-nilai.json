@@ -29,6 +29,20 @@
       "pjok": 90,
       "prakarya": 90,
       "jawa": 0
+    },
+    {
+      "nama": "XyzzMoods",
+      "indo": 100,
+      "inggris": 100,
+      "mtk": 100,
+      "ipa": 100,
+      "ips": 0,
+      "pkn": 0,
+      "pai": 100,
+      "sb": 100,
+      "pjok": 100,
+      "prakarya": 100,
+      "jawa": 0
     }
   ],
   "7C": [],
@@ -37,5 +51,5 @@
   "7F": [],
   "7G": [],
   "7H": [],
-  "_sha": "2c40643a7ae1895fcc6b40d614c8f3a2e8a60620"
+  "_sha": "89e72074a206c8146abdf2bdf88e4619b8734ae9"
 }
